@@ -1,4 +1,4 @@
-import RaceForm from "./components/race-form";
+import RaceForm from '@/app/components/race-board'
 
 export default function Home() {
 
